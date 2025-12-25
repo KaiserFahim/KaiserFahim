@@ -5,13 +5,10 @@
        style="border-radius:12px; width:100%; max-width:1200px;" />
 </p> -->
 <p align="center">
-  <iframe
-    width="100%"
-    height="500"
-    src="https://www.youtube.com/embed/Y0YUg0jh9Pk?autoplay=1&mute=1&loop=1&playlist=Y0YUg0jh9Pk&controls=0&disablekb=1&fs=0&modestbranding=1"
-    frameborder="0"
-    allow="autoplay; encrypted-media">
-  </iframe>
+  <img
+    src="https://i.imgur.com/wFb4Pct.gif"
+    alt="Profile Banner"
+    style="border-radius:12px; width:100%; max-width:1200px;" />
 </p>
 
 
