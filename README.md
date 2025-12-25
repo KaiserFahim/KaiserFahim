@@ -6,7 +6,7 @@
 </p> -->
 <p align="center">
   <img
-    src="https://i.imgur.com/wFb4Pct.gif"
+    src="https://i.ibb.co.com/xKxFnFTq/Kaiser-Fahim-Intro.gif"
     alt="Profile Banner"
     style="border-radius:12px; width:100%; max-width:1200px;" />
 </p>
