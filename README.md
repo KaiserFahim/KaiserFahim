@@ -6,9 +6,9 @@
 </p> -->
 <p align="center">
   <img
-    src="https://i.ibb.co.com/xKxFnFTq/Kaiser-Fahim-Intro.gif"
+    src="https://raw.githubusercontent.com/KaiserFahim/KaiserFahim/main/assets/KaiserFahimIntro.gif"
     alt="Profile Banner"
-    style="border-radius:12px; width:100%; max-width:1200px;" />
+    width="100%" />
 </p>
 
 <h1 align="center">Kaiser Fahim</h1>
