@@ -4,15 +4,14 @@
        alt="Profile Banner"
        style="border-radius:12px; width:100%; max-width:1200px;" />
 </p> -->
-
-
-<h1 align="center">Kaiser Fahim</h1>
 <p align="center">
   <img
     src="https://i.imgur.com/wFb4Pct.gif"
     alt="Profile Banner"
     style="border-radius:12px; width:100%; max-width:1200px;" />
 </p>
+
+<h1 align="center">Kaiser Fahim</h1>
 <p align="center">Developer • Student • Organizer</p>
 
 <!-- ========================= TYPING ANIMATION ========================= -->
